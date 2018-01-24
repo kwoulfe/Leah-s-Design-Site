@@ -43,6 +43,10 @@
 	padding:0px;
 }
 
+#carouselExampleControls {
+	background-color: #e9ecef;
+}
+
 p {
 	text-align: center;
 }

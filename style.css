@@ -1,0 +1,66 @@
+.carousel-inner {
+  width:100%;
+  height:360px;
+}
+
+.carousel-item {
+  position: relative;
+  overflow: hidden;
+  height: 360px;
+}
+
+.carousel-item img {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: -1000px;
+  bottom: -1000px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.jumbotron {
+	margin-bottom: 0;
+}
+
+.button1 {
+	background-color: #31668a;
+	border-color: #31668a;
+}
+
+.display-4 {
+	font-family: 'Bad Script', cursive;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.lead  {
+	font-family: 'Architects Daughter', cursive;
+}
+
+.my-5  {
+	font-family: 'Handlee', cursive;
+	padding:0px;
+}
+
+p {
+	text-align: center;
+}
+
+footer {
+	background-color: #31668a;
+	padding: 14px;
+	clear: both;
+	font-family: 'Bad Script', cursive;
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+}
+
+html {
+  height: 100%;
+
+}
+body {
+  min-height: 100%;
+}

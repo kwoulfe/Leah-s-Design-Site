@@ -11,10 +11,10 @@
 
 .carousel-item img {
   position: absolute;
-  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
   height: auto;
-  top: -1000px;
-  bottom: -1000px;
+  width: auto;
   margin-top: auto;
   margin-bottom: auto;
 }
